@@ -1,5 +1,5 @@
 # WebApp-GAPS
-**Make a WebApp using Google Apps Script: User can filter the data set Table**
+**Make a WebApp using Google Apps Script: User can filter the data set Table** 
 
 
 I have made a WebApp using google apps script, from which user can see their task/job in WebApp. 
